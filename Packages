@@ -1,0 +1,306 @@
+Package: coverz
+Version: 0.7-1~mickyz
+Architecture: all
+Maintainer: mickyz
+Installed-Size: 256
+Depends: python-cairo, python-dbus, python-gtk2
+Recommends: python-rsvg
+Suggests: libcanberra-gtk-module
+Filename: ./amd64/coverz_amd64.deb
+Size: 682670
+MD5sum: f631a237b4f880b2cb804ba16b9177d2
+SHA1: 7961c0f253c43c85ffd24d77e3e716cb24a7e77b
+SHA256: 924c4a9e3e6cad92c6ddbcb41ecf2acb766fbc13a887083f70d63d1f54b0d6f4
+Section: Multimedia
+Priority: optional
+Description: A nice way to diplay the covers
+ .
+ Released under GPLv3 license
+ .
+ mickyz(c)2013
+
+Package: emerald
+Version: 0.9.5-1
+Architecture: amd64
+Maintainer: Daniil Lukyanov <rosenrotttt@gmail.com>
+Installed-Size: 2904
+Provides: emerald
+Filename: ./amd64/emerald_0.9.5-1_amd64.deb
+Size: 694680
+MD5sum: 5294b30459ecfbb2b4be47eba41b6e67
+SHA1: c4614ac808968b2c59ca73a384b27aabfd7d1e0b
+SHA256: 4e8c935af7db5cf935d3c6133855036517a2b66a1da0cd5bf446ee89025f9570
+Section: DE
+Priority: extra
+Description: Package created with checkinstall 1.6.2
+
+Package: moviz
+Version: 1.4-1~mickyz
+Architecture: all
+Maintainer: mickyz
+Installed-Size: 524
+Depends: python-dbus, python-gst0.10, python-gtk2, python-glade2, python-xdg
+Recommends: gettext, gstreamer0.10-plugins-base, gstreamer0.10-pulseaudio, libvisual-0.4-plugins, ttf-droid
+Suggests: gstreamer0.10-plugins-good, gstreamer0.10-ffmpeg, gstreamer0.10-fluendo-mp3, gstreamer0.10-plugins-bad, gstreamer0.10-plugins-bad-multiverse, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-ugly-multiverse, python-cddb, python-gudev, python-imaging, python-mutagen, python-notify
+Filename: ./amd64/Moviz_1.5_Alpha_amd64.deb
+Size: 260830
+MD5sum: 8adb700103288cb4ba9b8fca5c23aac2
+SHA1: 75d7ab10fc029f8348c4cae0e5d11605772f03d2
+SHA256: a5fe81d052b80aba5ff35357f417f3bb16e0ef3898123e9bfd328ac7a9157c8f
+Section: Multimedia
+Priority: optional
+Description: A minimalist player written in GTK+
+ .
+ Released under GPLv3 license
+ .
+ mickyz(c)2012
+
+Package: oxygen-transparent
+Version: 20130222-1
+Architecture: amd64
+Maintainer: Daniil Lukyanov <rosenrotttt@gmail.com>
+Installed-Size: 1988
+Provides: build
+Filename: ./amd64/oxygen-transparent_20130222-1_amd64.deb
+Size: 599652
+MD5sum: 4efed7bac3839d4c6d3ca189ffe118de
+SHA1: cca8e7b327541781c2df826fe7f3b19e4b84be2c
+SHA256: f328fcbf043e28db70130935f9a03624f6c2b66d62668c606534c8c5266e55c0
+Section: Decorations
+Priority: extra
+Description: oxygen-transparent
+
+Package: pix
+Version: 20121110-1
+Architecture: amd64
+Maintainer: root@rosenrot-pc
+Installed-Size: 220
+Provides: pix
+Filename: ./amd64/pix_20121110-1_amd64.deb
+Size: 8610
+MD5sum: d1f699099ea107d7326e192434506501
+SHA1: c97195d7abce6466f9718928156797b4d70ffd99
+SHA256: cc01285858113def2ddda80ac56bacb9bbfae428a347d8b84303f39164007f7b
+Section: checkinstall
+Priority: extra
+Description: pix
+
+Package: qmmp
+Version: 0.6.7-1
+Architecture: amd64
+Maintainer: Daniil Lukyanov <rosenrotttt@gmail.com>
+Installed-Size: 11108
+Provides: qmmp
+Filename: ./amd64/qmmp_0.6.7-1_amd64.deb
+Size: 3254032
+MD5sum: 78ef601a53a254c403353a793d877776
+SHA1: 2cb6b9646cc1fd91ef2b3dbe61d01a9d5c857e3c
+SHA256: d0705c822f9f55118a0346fbe5582abbea94f86d362015333c91d7e46dd5220e
+Section: Multimedia
+Priority: extra
+Description: qmmp
+
+Package: qmmp-plugin-pack
+Version: 0.6.4-1
+Architecture: amd64
+Maintainer: Daniil Lukyanov <rosenrotttt@gmail.com>
+Installed-Size: 1444
+Provides: qmmp-plugin-pack
+Filename: ./amd64/qmmp-plugin-pack_0.6.4-1_amd64.deb
+Size: 409314
+MD5sum: aa03ea6380ca5a67556e7255ddfe0568
+SHA1: ed34b2d35ffbb7946c0cb65974aca75d2327ea6c
+SHA256: 45133d247855690d4a91a997694792db5523deaf47ed3bf052384b4f20f3614d
+Section: Multimedia
+Priority: extra
+Description: qmmp-plugin-pack
+
+Package: shotz
+Version: 0.5-1~mickyz
+Architecture: all
+Maintainer: mickyz
+Installed-Size: 128
+Depends: adobe-flashplugin, gettext, gstreamer0.10-plugins-base, gstreamer0.10-pulseaudio, libvisual-0.4-plugins, python-dbus, python-gst0.10, python-gtk2, python-glade2, python-webkit, python-xdg
+Recommends: gstreamer0.10-plugins-good, gstreamer0.10-ffmpeg, gstreamer0.10-fluendo-mp3, gstreamer0.10-plugins-bad, gstreamer0.10-plugins-bad-multiverse, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-ugly-multiverse
+Filename: ./amd64/shotz_amd64.deb
+Size: 82882
+MD5sum: 23043fa87f101f6604ccfefc1163cb37
+SHA1: 30893af609283d852c341507540388e5016c2cda
+SHA256: bf86744433f27936a84489f297e2ba7b378f863bc1b766b53397cf996542afab
+Section: Multimedia
+Priority: optional
+Description: A PyGTK image viewer designed for XFCE
+ .
+ Released under GPLv3 license
+ .
+ mickyz(c)2012
+
+Package: soundz
+Version: 3.5-1~mickyz
+Architecture: all
+Maintainer: mickyz
+Installed-Size: 270
+Depends: gettext, gstreamer0.10-fluendo-mp3, gstreamer0.10-plugins-base, gstreamer0.10-pulseaudio, ttf-droid, python-dbus, python-gst0.10, python-gtk2, python-glade2, python-mutagen, python-xdg
+Filename: ./amd64/Soundz-3.5_amd64.deb
+Size: 211526
+MD5sum: 6aa154317b15fe649e7c227d1d4fe7ff
+SHA1: 5fc84ee23abc002eb4a2935b38946325cd426bc4
+SHA256: 76c091832a0f045b149d6d5e54597a38d441834342eb53c2a204b3f0e02aab49
+Section: Multimedia
+Priority: optional
+Description: A PyGTK audio player designed for XFCE
+ .
+ Released under GPLv3 license
+ .
+ mickyz(c)2013
+
+Package: coverz
+Version: 0.7-1~mickyz
+Architecture: all
+Maintainer: mickyz
+Installed-Size: 256
+Depends: python-cairo, python-dbus, python-gtk2
+Recommends: python-rsvg
+Suggests: libcanberra-gtk-module
+Filename: ./i386/coverz_i386.deb
+Size: 676346
+MD5sum: ca3d2a5d68051a4c64589cf4b9c22c5a
+SHA1: bdb5f98725556f1ca90b2b2e86486e928572315a
+SHA256: a7c80f51b4b50cc979bbc97ac81f3e9ef0f36b44992e69af6b1b8841731d298c
+Section: Multimedia
+Priority: optional
+Description: A nice way to diplay the covers
+ .
+ Released under GPLv3 license
+ .
+ mickyz(c)2013
+
+Package: emerald
+Version: 0.9.5-1
+Architecture: i386
+Maintainer: Daniil Lukyanov <rosenrotttt@gmail.com>
+Installed-Size: 2524
+Provides: emerald
+Filename: ./i386/emerald_0.9.5-1_i386.deb
+Size: 673060
+MD5sum: c019e88f0bb92a229d1738ffaa962ee5
+SHA1: 7f7765ea6093b67e094b5aabd9f15540a08b0ba7
+SHA256: 7812f026e48abe3638d4507e79978eb95555b0bb414f414d81ec315a2547b5f1
+Section: DE
+Priority: extra
+Description: emerald
+
+Package: oxygen-transparent
+Version: 20130126-1
+Architecture: i386
+Maintainer: Daniil Lukyanov <rosenrotttt@gmail.com>
+Installed-Size: 1872
+Provides: build
+Filename: ./i386/oxygen-transparent_20130126-1_i386.deb
+Size: 610224
+MD5sum: 7528c86116792f55c25eeabcf9c62b51
+SHA1: 60b23b2883554be006d91c5da8d3417cc7c873d0
+SHA256: d8bb0838424f7d783c7454c5ea6fb8437b16b5b94985589c05627a442e518c8a
+Section: KDE
+Priority: extra
+Description: oxygen-transparent
+
+Package: qmmp
+Version: 0.6.6-1
+Architecture: i386
+Maintainer: Daniil Lukyanov <rosenrotttt@gmail.com>
+Installed-Size: 9748
+Provides: qmmp
+Filename: ./i386/qmmp_0.6.6-1_i386.deb
+Size: 3180128
+MD5sum: e7085d60fa42d7f3ddd53d90b58797ee
+SHA1: caaf3f47dba868d35edc5ccc3e0d99350cf02706
+SHA256: 5b8eea315feb949682d5769bf41bad4a36acdc0e5af350c02a926a00f3e8aca2
+Section: Multimedia
+Priority: extra
+Description: qmmp-0.6.6
+
+Package: qmmp-plugin-pack
+Version: 0.6.4-1
+Architecture: i386
+Maintainer: Daniil Lukyanov <rosenrotttt@gmail.com>
+Installed-Size: 1296
+Provides: qmmp-plugin-pack
+Filename: ./i386/qmmp-plugin-pack_0.6.4-1_i386.deb
+Size: 406152
+MD5sum: ee37b34cfc50624ca82aa6a279978a96
+SHA1: 6d797849e12825308d1c57cf693478561ec73845
+SHA256: b1a3a9792054490c86306cda31e457c253ec3267c4fcd67a0a756c32f8d6049c
+Section: Multimedia
+Priority: extra
+Description: qmmp-plugin-pack
+
+Package: shotz
+Version: 0.5-1~mickyz
+Architecture: all
+Maintainer: mickyz
+Installed-Size: 128
+Depends: adobe-flashplugin, gettext, gstreamer0.10-plugins-base, gstreamer0.10-pulseaudio, libvisual-0.4-plugins, python-dbus, python-gst0.10, python-gtk2, python-glade2, python-webkit, python-xdg
+Recommends: gstreamer0.10-plugins-good, gstreamer0.10-ffmpeg, gstreamer0.10-fluendo-mp3, gstreamer0.10-plugins-bad, gstreamer0.10-plugins-bad-multiverse, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-ugly-multiverse
+Filename: ./i386/shotz_i386.deb
+Size: 82158
+MD5sum: fa45d2b5a17ba31b25b09dd3da63874f
+SHA1: bce397074ecc3539883b653b4153aad8aa104336
+SHA256: 9cd828fc6702e121944969009dd1f5fb1c0e2a7b230c278ae4ea6b3db6f243a5
+Section: Multimedia
+Priority: optional
+Description: A PyGTK image viewer designed for XFCE
+ .
+ Released under GPLv3 license
+ .
+ mickyz(c)2012
+
+Package: soundz
+Version: 3.5-1~mickyz
+Architecture: all
+Maintainer: mickyz
+Installed-Size: 270
+Depends: gettext, gstreamer0.10-fluendo-mp3, gstreamer0.10-plugins-base, gstreamer0.10-pulseaudio, ttf-droid, python-dbus, python-gst0.10, python-gtk2, python-glade2, python-mutagen, python-xdg
+Filename: ./i386/Soundz-3.5_i386.deb
+Size: 209954
+MD5sum: 1feda02e48b87d5caa0b4f1ae9dad7af
+SHA1: aea3be693b40baf52bbf2bee6ea9c904f294f255
+SHA256: a334b61e8a0ffdc3ffe3d62eea3c5029ebbe6435ce8280222589007e3c80cd91
+Section: Multimedia
+Priority: optional
+Description: A PyGTK audio player designed for XFCE
+ .
+ Released under GPLv3 license
+ .
+ mickyz(c)2013
+
+Package: xerox-phaser-3010-3040
+Version: 1.0-28
+Architecture: i386
+Maintainer: XEROX CORPORATION <USAXOGWebsupport@xerox.com>
+Installed-Size: 1504
+Depends: gs-esp | ghostscript, libc6 (>= 2.3.2), libcups2 (>= 1.2.7) | libcupsys2 (>= 1.2.7) | libcupsys2-gnutls10 (>= 1.1.23-1)
+Filename: ./i386/xerox-phaser-3010-3040_1.0-28_i386.deb
+Size: 604848
+MD5sum: 6e86e38ee737062c436d438a24732319
+SHA1: ccbf403ef24f14a90df395265473e75ed5f529ba
+SHA256: f663d0d24a849e10c18f14e52c01888a369588b4377d420ec7c7a63fb3654960
+Section: text
+Priority: optional
+Description: Printer Driver for Xerox Phaser 3010/3040
+
+Package: qmmp
+Version: 0.7.0-1
+Architecture: amd64
+Maintainer: Daniil Lukyanov <rosenrotttt@gmail.com>
+Installed-Size: 11412
+Provides: qmmp
+Filename: ./amd64/qmmp_0.7.0-1_amd64.deb
+Size: 3332848
+MD5sum: 6779f47de6fa276f106963f331db716b
+SHA1: 48c13da2ca18c83482e26da4c865c0b0bf9c641d
+SHA256: d310a935401fd4d1b2c6602e9df1423d83c13492ef96e30eb9f01886ad6952ab
+Section: Multimedia
+Priority: extra
+Description: qmmp
+
